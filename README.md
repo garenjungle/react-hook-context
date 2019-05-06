@@ -1,6 +1,7 @@
 # ref
 
-https://kentcdodds.com/
+hooks and context: https://kentcdodds.com/
+axios with hooks: https://www.robinwieruch.de/react-hooks-fetch-data/
 
 # CRA3
 
